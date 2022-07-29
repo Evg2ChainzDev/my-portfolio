@@ -10,4 +10,7 @@ https://rss-virtual-keyboard.netlify.app/
 
 https://css-mem-slider-2chainz.netlify.app/
 
+https://rolling-scopes-school.github.io/evg2chainzdev-JSFE2022Q1/Online-Store/
+(TS, WebPack)
+
 https://www.codewars.com/users/Evg2ChainzDev
